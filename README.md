@@ -23,7 +23,7 @@ Consola de Rocky Linux:\
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/1b5899cd-7492-4201-8e7c-d804ed89c610" />
 ### 2. Crear máquina virtual de Kali Linux:
 ### 3. Crear máquina virtual de Windows:
-### 4. Se debe probar que todas las máquinas virtuales se comuniquen entre sí:\
+### 4. Se debe probar que todas las máquinas virtuales se comuniquen entre sí:
 Para este punto, primero comprobamos cuál es la dirección IP de cada máquina virtual con el comando\
 `hostname -I`
 en Linux\
@@ -48,7 +48,7 @@ Ping de Kali a Windows\
 Ping de Rocky a Kali\
 <img width="1300" height="736" alt="image" src="https://github.com/user-attachments/assets/bf22dc46-1363-4929-b93b-4d5571a28602" />\
 Ping de Rocky a Windows\
-<img width="420" height="227" alt="image" src="https://github.com/user-attachments/assets/1b92c960-61b3-407c-a53c-fa118dbb9e7b" />\
+<img width="420" height="227" alt="image" src="https://github.com/user-attachments/assets/1b92c960-61b3-407c-a53c-fa118dbb9e7b" />
 
 
 
