@@ -22,7 +22,28 @@ Ya dentro de la MV se ve esto:\
 Consola de Rocky Linux:\
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/1b5899cd-7492-4201-8e7c-d804ed89c610" />
 ### 2. Crear máquina virtual de Kali Linux:
+Se instala la imagen ISO de Rocky, se encuentra en el siguiente link:<img width="1624" height="664" alt="image" src="https://github.com/user-attachments/assets/caa8006a-34a6-46ba-8075-253c4d9c94cf" />
+Abrimos qemu y corremos el iso de Kali:\
+![Imagen de WhatsApp 2025-10-10 a las 16 03 11_bda84e22](https://github.com/user-attachments/assets/4c595331-34f9-41c5-be0e-6a06c8aac15d)\
+Hacemos la instalación:\
+![Imagen de WhatsApp 2025-10-10 a las 16 05 46_3ef1dd70](https://github.com/user-attachments/assets/328c2d7a-5497-4052-ac4d-d283395654a6)
+
+
+
+
 ### 3. Crear máquina virtual de Windows:
+Descargamos la iso de Windows:\
+<img width="1777" height="618" alt="image" src="https://github.com/user-attachments/assets/9c12183c-dce8-46fd-bfeb-d900e22fee8d" />
+Corremos el disco en qemu:\
+![Imagen de WhatsApp 2025-10-10 a las 16 33 48_3fe61c75](https://github.com/user-attachments/assets/df59483a-3b03-40e4-9040-025ba84b4d8d)
+Seleccionamos el espacio del disco virtual:\
+![Imagen de WhatsApp 2025-10-10 a las 16 33 55_33ba6921](https://github.com/user-attachments/assets/2ff8a4d5-1ba6-438d-b6c2-df40908e3da2)
+Una vez instalado ya podemos usar windows dentro de la maquina virtual:\
+![Imagen de WhatsApp 2025-10-10 a las 16 57 25_3a3732d6](https://github.com/user-attachments/assets/a834f7fd-e085-4ab5-a612-7f9d9c42c74d)
+
+
+
+
 ### 4. Se debe probar que todas las máquinas virtuales se comuniquen entre sí:
 Para este punto, primero comprobamos cuál es la dirección IP de cada máquina virtual con el comando\
 `hostname -I`
